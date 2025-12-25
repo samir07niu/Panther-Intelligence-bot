@@ -26,5 +26,5 @@ An advanced **Cybersecurity Simulation & Utility Bot** built with Python. This t
 This bot is for **Educational Purposes Only**. The hacking features are simulations and do not cause real harm.
 
 ---
-**Developer:** Sameer Raja  
+**Developer:** Samir Raja  
 **Status:** 🟢 Online
