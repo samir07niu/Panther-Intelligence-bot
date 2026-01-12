@@ -28,3 +28,7 @@ This bot is for **Educational Purposes Only**. The hacking features are simulati
 ---
 **Developer:** Samir Raja  
 **Status:** 🟢 Online
+
+## ⚠️ Legal Disclaimer
+**This tool is for EDUCATIONAL PURPOSES and SECURITY TESTING only.**
+The "Hack" and "DDoS" modules are **simulations** that display visual effects only. They do not perform any actual cyber attacks or network stress testing. The developer is not responsible for any misuse.
